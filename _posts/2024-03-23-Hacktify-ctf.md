@@ -42,7 +42,7 @@ https://www.reddit.com/user/LinuxKiller69/submitted/
 - There is something in the profile pic
 - Downloading the profile pic and submitting the flag
 
-![Untitled](/common/posts/2024-03-23-Hacktify-ctf/image-1.png)
+![Untitled](/common/posts/2024-03-23-Hacktify-ctf/image.png)
 
 ```flag
 flag{cr0ss_pl4tf0rm}
@@ -174,3 +174,4 @@ flag{D0n't_g3t_ph1sh3d}
 gobuster dir -u url -w /usr/share/wordlist/dirb/big.txt -x php,html --threads 50
 ```
 - We got the directory `/twofish`
+- We got the flag
