@@ -42,7 +42,7 @@ https://www.reddit.com/user/LinuxKiller69/submitted/
 - There is something in the profile pic
 - Downloading the profile pic and submitting the flag
 
-![Untitled](/common/posts/2024-03-23-Hacktify-ctf/image.png)
+![Untitled](commons/2024-03-23-Hacktify-ctf/image.png)
 
 ```flag
 flag{cr0ss_pl4tf0rm}
