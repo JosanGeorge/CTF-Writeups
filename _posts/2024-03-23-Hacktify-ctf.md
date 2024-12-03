@@ -2,7 +2,7 @@
 title: Hacktify CTF
 author: JosanGeorge
 date: 2024-03-23 13:25:00 +0530
-categories: [CTF, Yukthi]
+categories: [CTF, Hacktify]
 tags: [CTF, osint, crypto, network forensics, reverse engineering, phishing, web, ]
 ---
 
